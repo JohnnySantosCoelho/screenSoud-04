@@ -1,0 +1,15 @@
+C:\Users\Johnny Santos\Documents\alura\ScreenSoud-04\ScreenSoud-04\bin\Debug\net8.0\ScreenSoud-04.exe
+C:\Users\Johnny Santos\Documents\alura\ScreenSoud-04\ScreenSoud-04\bin\Debug\net8.0\ScreenSoud-04.deps.json
+C:\Users\Johnny Santos\Documents\alura\ScreenSoud-04\ScreenSoud-04\bin\Debug\net8.0\ScreenSoud-04.runtimeconfig.json
+C:\Users\Johnny Santos\Documents\alura\ScreenSoud-04\ScreenSoud-04\bin\Debug\net8.0\ScreenSoud-04.dll
+C:\Users\Johnny Santos\Documents\alura\ScreenSoud-04\ScreenSoud-04\bin\Debug\net8.0\ScreenSoud-04.pdb
+C:\Users\Johnny Santos\Documents\alura\ScreenSoud-04\ScreenSoud-04\obj\Debug\net8.0\ScreenSoud-04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johnny Santos\Documents\alura\ScreenSoud-04\ScreenSoud-04\obj\Debug\net8.0\ScreenSoud-04.AssemblyInfoInputs.cache
+C:\Users\Johnny Santos\Documents\alura\ScreenSoud-04\ScreenSoud-04\obj\Debug\net8.0\ScreenSoud-04.AssemblyInfo.cs
+C:\Users\Johnny Santos\Documents\alura\ScreenSoud-04\ScreenSoud-04\obj\Debug\net8.0\ScreenSoud-04.csproj.CoreCompileInputs.cache
+C:\Users\Johnny Santos\Documents\alura\ScreenSoud-04\ScreenSoud-04\obj\Debug\net8.0\ScreenSoud-04.dll
+C:\Users\Johnny Santos\Documents\alura\ScreenSoud-04\ScreenSoud-04\obj\Debug\net8.0\refint\ScreenSoud-04.dll
+C:\Users\Johnny Santos\Documents\alura\ScreenSoud-04\ScreenSoud-04\obj\Debug\net8.0\ScreenSoud-04.pdb
+C:\Users\Johnny Santos\Documents\alura\ScreenSoud-04\ScreenSoud-04\obj\Debug\net8.0\ScreenSoud-04.genruntimeconfig.cache
+C:\Users\Johnny Santos\Documents\alura\ScreenSoud-04\ScreenSoud-04\obj\Debug\net8.0\ref\ScreenSoud-04.dll
+C:\Users\Johnny Santos\Documents\alura\ScreenSoud-04\ScreenSoud-04\bin\Debug\net8.0\ScreenSoud-04.dll.config
